@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/almavi985/proyecto5.git/static/css/main.7ad27e9f.css",
-    "main.js": "/almavi985/proyecto5.git/static/js/main.cc41f0b2.js",
-    "static/js/787.1a00ae5c.chunk.js": "/almavi985/proyecto5.git/static/js/787.1a00ae5c.chunk.js",
-    "static/media/tienda.jpg": "/almavi985/proyecto5.git/static/media/tienda.146c6e8745861056894f.jpg",
-    "static/media/pet.PNG": "/almavi985/proyecto5.git/static/media/pet.3fbfaf00c2260341bbad.PNG",
-    "static/media/metodos.jpg": "/almavi985/proyecto5.git/static/media/metodos.aca8b465d8ee43595615.jpg",
-    "static/media/collar-de-perro.png": "/almavi985/proyecto5.git/static/media/collar-de-perro.09ca28a7d32eaeea2fc7.png",
-    "static/media/pago.png": "/almavi985/proyecto5.git/static/media/pago.53e7a9dab6aeaff0a5a3.png",
-    "static/media/gato.png": "/almavi985/proyecto5.git/static/media/gato.878bed34c52ddc980447.png",
-    "static/media/linea.png": "/almavi985/proyecto5.git/static/media/linea.4188e242c991a6f9f58c.png",
-    "static/media/logo.PNG": "/almavi985/proyecto5.git/static/media/logo.00a6605d837f53d843a7.PNG",
-    "index.html": "/almavi985/proyecto5.git/index.html",
-    "static/media/directorio.svg": "/almavi985/proyecto5.git/static/media/directorio.90bc1965c4ffc4e18cb52079b33ab08e.svg",
-    "main.7ad27e9f.css.map": "/almavi985/proyecto5.git/static/css/main.7ad27e9f.css.map",
-    "main.cc41f0b2.js.map": "/almavi985/proyecto5.git/static/js/main.cc41f0b2.js.map",
-    "787.1a00ae5c.chunk.js.map": "/almavi985/proyecto5.git/static/js/787.1a00ae5c.chunk.js.map"
+    "main.css": "/proyecto5/static/css/main.7ad27e9f.css",
+    "main.js": "/proyecto5/static/js/main.3b3d97ad.js",
+    "static/js/787.1a00ae5c.chunk.js": "/proyecto5/static/js/787.1a00ae5c.chunk.js",
+    "static/media/tienda.jpg": "/proyecto5/static/media/tienda.146c6e8745861056894f.jpg",
+    "static/media/pet.PNG": "/proyecto5/static/media/pet.3fbfaf00c2260341bbad.PNG",
+    "static/media/metodos.jpg": "/proyecto5/static/media/metodos.aca8b465d8ee43595615.jpg",
+    "static/media/collar-de-perro.png": "/proyecto5/static/media/collar-de-perro.09ca28a7d32eaeea2fc7.png",
+    "static/media/pago.png": "/proyecto5/static/media/pago.53e7a9dab6aeaff0a5a3.png",
+    "static/media/gato.png": "/proyecto5/static/media/gato.878bed34c52ddc980447.png",
+    "static/media/linea.png": "/proyecto5/static/media/linea.4188e242c991a6f9f58c.png",
+    "static/media/logo.PNG": "/proyecto5/static/media/logo.00a6605d837f53d843a7.PNG",
+    "index.html": "/proyecto5/index.html",
+    "static/media/directorio.svg": "/proyecto5/static/media/directorio.90bc1965c4ffc4e18cb52079b33ab08e.svg",
+    "main.7ad27e9f.css.map": "/proyecto5/static/css/main.7ad27e9f.css.map",
+    "main.3b3d97ad.js.map": "/proyecto5/static/js/main.3b3d97ad.js.map",
+    "787.1a00ae5c.chunk.js.map": "/proyecto5/static/js/787.1a00ae5c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ad27e9f.css",
-    "static/js/main.cc41f0b2.js"
+    "static/js/main.3b3d97ad.js"
   ]
 }
