@@ -31,7 +31,7 @@ const Sesion = () => {
                     <i class="fi fi-rr-confetti">a</i>
                     <h1>Inicia sesion</h1>
                     <form onSubmit={onSubmit} >
-                        <input type="text" placeholder="Email" name="mail" />
+                        <input type="text" placeholder="Email" name="email" />
                         <br /><br />
                         <input type="password" placeholder="Password" name="password" />
                         <br /><br />
