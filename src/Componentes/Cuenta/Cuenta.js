@@ -35,6 +35,8 @@ const Cuenta = () => {
         <form onSubmit={onSubmit} >
                 <input type="text" placeholder="Nombre" name="nom" />
                 <br /><br />
+			 <input type="text" placeholder="Apellido" name="ape" />
+                <br /><br />
                 <input type="text" placeholder="Email" name="email" />
                 <br /><br />
                 <input type="password" placeholder="Password" name="password" />
